@@ -39,7 +39,7 @@ export default function Navbar() {
                     ) : (
                         <div className="flex items-center gap-3 bg-white/5 py-1.5 px-3 rounded-xl border border-white/10 backdrop-blur-sm">
                             <div className="flex items-center gap-2 px-2">
-                                <div className="w-2 h-2 bg-primary rounded-full bg-green-400 animate-pulse shadow-[0_0_10px_#10b981]"></div>
+                                <div className="w-2 h-2 rounded-full bg-green-400 animate-pulse shadow-[0_0_10px_#10b981]"></div>
                                 <span className="font-mono text-sm text-gray-300">
                                     {address?.slice(0, 6)}...{address?.slice(-4)}
                                 </span>
