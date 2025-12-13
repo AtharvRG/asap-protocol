@@ -1,3 +1,9 @@
+<div align="center">
+
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/785a7d71-9d11-49e4-adcf-726589a93109" />
+</div>
+
+
 # ASAP: Agent Service Discovery & Attestation Protocol
 
 **The Infrastructure Layer for the Autonomous Agent Economy.**
